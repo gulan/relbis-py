@@ -1,0 +1,10 @@
+*gdg
+*.pyc
+*~
+.old
+2
+README.html
+build
+dist
+my*
+
